@@ -1,5 +1,5 @@
-# Citizen-Sensing
-This is a project by students of Lappeenrata city which implements the concept of citizen engagement for detecting foul smells in the city
+# cSense
+This is a project by students of Lappeenrata city which implements the concept of crowdsourcing
 
 Team:
 Ajesh Kumar - Project Manager <br />
